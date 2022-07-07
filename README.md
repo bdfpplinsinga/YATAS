@@ -1,8 +1,4 @@
-# YATAS - Yet Another Tailwind Apline Starter
-
-<a href="https://yatas.netlify.app/" target="_blank">
-  <img alt="YATAS Logo" width="350" src="./src/img/logo.svg">
-</a>
+# CFC - Coded For Free  Starter with Tailwind and Apline
 
 Minimal 11ty starter project that build css with tailwindcss cli and [esbuild](https://esbuild.github.io/) for javascript.
 
